@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Lovers Rock",
+  "base_artist": "TV Girl",
+  "createdAt": "2026-03-31T07:15:44.215350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lover's Rock",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/01_Lover's_Rock_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovers Rock",
+      "artist": "Sade",
+      "has_synced": false,
+      "path": "select/02_Lovers_Rock_Sade.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovers Rock",
+      "artist": "TV Girl",
+      "has_synced": true,
+      "path": "select/03_Lovers_Rock_TV_Girl.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lover's Rock",
+      "artist": "Clash, The",
+      "has_synced": true,
+      "path": "select/04_Lover's_Rock_Clash,_The.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovers Rock",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/05_Lovers_Rock_Sade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lover's Rock",
+      "artist": "Johnny Horton",
+      "has_synced": true,
+      "path": "select/06_Lover's_Rock_Johnny_Horton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lover's Rock - Remastered",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/07_Lover's_Rock_-_Remastered_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lover’s Rock",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/08_Lover’s_Rock_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lover’s Rock",
+      "artist": "Clash, The",
+      "has_synced": true,
+      "path": "select/09_Lover’s_Rock_Clash,_The.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovers Rock",
+      "artist": "Sublime With Rome",
+      "has_synced": false,
+      "path": "select/10_Lovers_Rock_Sublime_With_Rome.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovers Rock",
+      "artist": "Sublime With Rome",
+      "has_synced": true,
+      "path": "select/11_Lovers_Rock_Sublime_With_Rome.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lover's Rock (feat. Yush)",
+      "artist": "Shy FX feat. T Power",
+      "has_synced": true,
+      "path": "select/12_Lover's_Rock_(feat._Yush)_Shy_FX_feat._T_Power.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lover's Rock",
+      "artist": "Shy FX; T Power",
+      "has_synced": true,
+      "path": "select/13_Lover's_Rock_Shy_FX;_T_Power.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovers Rock",
+      "artist": "TV Girl",
+      "has_synced": false,
+      "path": "select/pl_01_Lovers_Rock_TV_Girl.txt"
+    }
+  ]
+}
